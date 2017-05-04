@@ -1,0 +1,131 @@
+* {
+  padding: 0;
+  margin: 0; }
+
+html body {
+  background-color: black;
+  width: 100%;
+  height: 100%; }
+  html body main .article {
+    display: flex; }
+    html body main .article img {
+      border: 2px solid grey;
+      width: 300px;
+      height: 200px; }
+    html body main .article .texte {
+      border: 2px solid grey; }
+  html body main .soumission {
+    display: flex;
+    flex-direction: column;
+    width: 450px; }
+    html body main .soumission h4 {
+      color: white;
+      margin-left: 10px; }
+    html body main .soumission input {
+      margin-left: 10px;
+      width: 200px;
+      background-color: white; }
+  html body main .edition {
+    display: flex;
+    align-items: flex-end; }
+  html body textarea {
+    margin-left: 10px;
+    height: 150px;
+    width: 400px; }
+  html body .com {
+    display: flex;
+    width: 400px;
+    margin-left: 10px; }
+    html body .com input {
+      margin-bottom: 0px;
+      margin-top: 10px; }
+  html body header {
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 15px; }
+  html body input {
+    width: 150px;
+    height: 30px;
+    background-color: grey;
+    border-radius: 5px;
+    margin-bottom: 10px; }
+  html body .button {
+    width: 70px;
+    height: 30px;
+    position: absolute;
+    margin-left: 5px;
+    background-color: black;
+    border-radius: 5px;
+    font-size: 10px; }
+  html body .inscription {
+    display: flex;
+    flex-direction: column;
+    align-items: center; }
+    html body .inscription label {
+      color: white; }
+    html body .inscription input {
+      width: 200px;
+      height: 30px; }
+  html body ul {
+    display: flex;
+    flex-direction: row;
+    align-items: baseline; }
+  html body li {
+    color: white;
+    list-style: none;
+    font-size: 20px;
+    margin: 0px 10px; }
+  html body .main {
+    height: 600px; }
+  html body h1 {
+    color: white;
+    text-align: center;
+    font-size: 100px;
+    margin-bottom: 0; }
+  html body h2 {
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 0px; }
+  html body h3 {
+    color: white;
+    text-align: center; }
+  html body img {
+    width: 300px;
+    height: 200px;
+    margin: 0 15px; }
+  html body .logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 395px; }
+  html body .description {
+    width: 300px;
+    height: 250px;
+    margin: 0 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end; }
+  html body article img {
+    width: 400px;
+    height: 300px;
+    display: flex; }
+  html body p {
+    font-size: 15px;
+    color: white;
+    padding: 15px; }
+  html body a:visited, html body a:link {
+    color: white;
+    text-decoration: none; }
+  html body a:hover {
+    text-shadow: 0 10px 10px red;
+    transition: 0.5s; }
+  html body footer {
+    text-align: center; }
+    html body footer a:visited, html body footer a:link {
+      color: white; }
+
+/*# sourceMappingURL=style.css.map */
