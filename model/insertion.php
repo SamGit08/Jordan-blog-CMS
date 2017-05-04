@@ -6,8 +6,7 @@
   $mdp = $_POST['mdp'];
 
   if (isset($_POST['nom'], $_POST['prenom'], $_POST['age'], $_POST['pseudo'], $_POST['mdp'])){
-    //Champ CommId
-    $req = $bdd->prepare("INSERT INTO `Utilisateurs` (`id`, `name`, `lastname`, `age`, `mdp`, `pseudo`, `CommId`) VALUES (NULL, '$prenom', '$nom', '$age', '$mdp', '$pseudo')");
+    $req = $bdd->prepare("INSERT INTO `Utilisateurs` (`id`, `name`, `lastname`, `age`, `mdp`, `pseudo`) VALUES (NULL, '$prenom', '$nom', '$age', '$mdp', '$pseudo')");
 
     $req->execute();
     $req->closeCursor();

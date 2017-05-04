@@ -3,15 +3,15 @@
   <h2>History</h2>
   <div class="logo">
     <div class="description">
-      <img src="/Jordan-blog-CMS/view/Images/logogamme.jpg" alt="">
+      <img src="/Jordan-Blog-CMS/view/Images/logogamme.jpg" alt="">
       <h3><a href="gamme.php">Gamme Jordan</a></h3>
     </div>
     <div class="description">
-      <img src="/Jordan-blog-CMS/view/Images/logobhm.jpg" alt="">
+      <img src="/Jordan-Blog-CMS/view/Images/logobhm.jpg" alt="">
       <h3><a href="#">BHM: Black History Month</a></h3>
     </div>
     <div class="description">
-      <img src="/Jordan-blog-CMS/view/Images/oregon_ducks.png" alt="">
+      <img src="/Jordan-Blog-CMS/view/Images/oregon_ducks.png" alt="">
       <h3><a href="#">Jordan University</a></h3>
     </div>
   </div>
@@ -19,7 +19,7 @@
 <article class="">
   <h1 id="history">Jojo History</h1>
   <div>
-    <img src="/Jordan-blog-CMS/view/Images/michealquai54.jpg" alt="">
+    <img src="/Jordan-Blog-CMS/view/Images/michealquai54.jpg" alt="">
     <p>Nike Air Jordan est une ligne de chaussures de basket-ball de marque Nike, frappées du nom de Michael Jordan, ancien joueur des Chicago Bulls en NBA.<br><br>
     Michael Jordan a porté des Converse All-Star pendant ses saisons en NCAA. Puis, pendant son année rookie, il a porté des Nike Air Force One enfin, l'année suivante, des Air Jordan "One".<br><br>
     La Jordan Brand (la marque Jordan) a été créée en 1988, en partenariat avec Nike. Le Swoosh, qui est le logo de la firme, n’apparaît plus sur les produits de la marque Jordan à partir de la Air Jordan VII (1992), seul le Jumpman (logo) (en) y figure : cela est le prolongement d'une très lucrative association entre les deux partenaires depuis 1984.<br><br>

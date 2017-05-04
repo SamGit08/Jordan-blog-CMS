@@ -1,7 +1,7 @@
 <?php
-  require 'connexion.php';
 
   function connexion(){
+    require 'connexion.php';
     $pseudo = $_POST['pseudo'];
     $mdp = $_POST['mdp'];
 
@@ -12,7 +12,7 @@
     $req->closeCursor();
 
     if (!$data) {
-      echo "Utilisateur inconnu !";
+      echo "Veuillez vous inscrire";
     }
     else
     {
@@ -23,6 +23,4 @@
   }
   connexion();
 
-// selection des commentaires de l'article
-// SELECT Commentaire FROM `Commentaires`, `Articles` WHERE idArt = 1
 ?>
