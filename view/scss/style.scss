@@ -8,10 +8,6 @@ html{
     background-color: black;
     width: 100%;
     height: 100%;
-
-    main{
-      .article{
-        display: flex;
         img{
           border: 2px solid grey;
           width: 300px;
@@ -20,6 +16,8 @@ html{
         .texte{
           border: 2px solid grey;
         }
+      .art{
+        display: flex; 
       }
       .soumission{
         display: flex;
@@ -39,7 +37,7 @@ html{
         display: flex;
         align-items: flex-end;
       }
-    }
+
     textarea{
       margin-left: 10px;
       height: 150px;

@@ -1,3 +1,3 @@
 <footer>
-  <a href="index.php">Retour</a>
+  <a href="index.php?page=main.php">Retour</a>
 </footer>
